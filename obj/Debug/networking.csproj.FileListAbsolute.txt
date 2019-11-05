@@ -1,0 +1,11 @@
+C:\Users\Dafid\source\repos\networking\networking\obj\Debug\networking.csprojAssemblyReference.cache
+C:\Users\Dafid\source\repos\networking\networking\obj\Debug\networking.csproj.CoreCompileInputs.cache
+C:\Users\Dafid\source\repos\networking\networking\bin\Debug\Masker.exe.config
+C:\Users\Dafid\source\repos\networking\networking\bin\Debug\Masker.exe
+C:\Users\Dafid\source\repos\networking\networking\bin\Debug\Masker.pdb
+C:\Users\Dafid\source\repos\networking\networking\obj\Debug\Masker.exe
+C:\Users\Dafid\source\repos\networking\networking\obj\Debug\Masker.pdb
+C:\Users\Dafid\source\repos\networking\networking\bin\Debug\Masker.exe.manifest
+C:\Users\Dafid\source\repos\networking\networking\bin\Debug\Masker.application
+C:\Users\Dafid\source\repos\networking\networking\obj\Debug\Masker.exe.manifest
+C:\Users\Dafid\source\repos\networking\networking\obj\Debug\Masker.application

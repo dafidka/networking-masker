@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Masker.exe" size="62944">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Masker.exe" size="63456">
       <assemblyIdentity name="Masker" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>fx0gisOgPVJZajEuGlN3Dpqbg1Y8TS/U/UlwNRG5p+Q=</dsig:DigestValue>
+        <dsig:DigestValue>Y/N2hFU4RZoK2+4VJzmWxO6OUV9vl/HYbQS1/8mzJ58=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -63,13 +63,13 @@
       <dsig:DigestValue>cdyp4n4Cr12xRHhCO0BCF+xgjRxK/xUJM05uled0Q9k=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Masker.exe.config" size="1379">
+  <file name="Masker.exe.config" size="189">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>j9zO4T7T/8XT7lyjdVdGUqEIr046ckpuDCNgX5vwcyw=</dsig:DigestValue>
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>
