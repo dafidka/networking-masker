@@ -192,7 +192,7 @@ namespace networking
             Console.Write(hex1 + "-" + hex2 + "-" + hex3 + "-" + hex4+"");
             Console.BackgroundColor = ConsoleColor.Black;
             Console.ForegroundColor = ConsoleColor.White;
-            Console.Write("   \t\t\t <== A megadott IP cím HEX - ben\n");
+            Console.Write("   \t\t\t      <== A megadott IP cím HEX - ben\n");
 
             int maskNumber = default;
                 try
